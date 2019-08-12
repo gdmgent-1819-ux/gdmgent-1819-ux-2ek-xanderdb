@@ -1,0 +1,547 @@
+#content-container {
+	display: table;
+	position: relative;
+	width: 768px;
+	height: 1366px;
+	overflow: hidden;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+
+
+#letter_doos {
+	top: 13.635099411011px;
+	left: 20px;
+	width: 362.32522583008px;
+	height: 72.734565734863px;
+	overflow: hidden;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 41px;
+	text-align: left;
+	line-height: 41px;
+	color: #000000;
+	display: flex;
+	align-items: flex-start;
+}
+
+#homebar {
+	box-sizing: border-box;
+	display: flex;
+
+	justify-content: space-between;
+
+
+}
+
+
+#opties {
+	box-sizing: border-box;
+	display: flex;
+
+	justify-content: space-between;
+	width: 100%;
+
+
+}
+
+#algemeen {
+	top: 109px;
+	left: 21px;
+	width: 79px;
+	height: 20px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	text-align: center;
+	color: #707070;
+}
+
+#algemeen:hover {
+	color: #c70e3c;
+	font-style: italic;
+}
+
+#titel {
+	width: 336px;
+	height: 53px;
+	display: flex;
+	align-items: flex-start;
+	overflow: hidden;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 28px;
+	text-align: center;
+	line-height: 28px;
+	color: #c70e3c;
+}
+
+
+
+#evenementen {
+	top: 109px;
+	left: 170px;
+	width: 107px;
+	height: 20px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	text-align: center;
+	color: #707070;
+}
+
+#evenementen:hover {
+	color: #c70e3c;
+	font-style: italic;
+}
+
+
+#foto_s {
+	top: 109px;
+	left: 350px;
+	width: 51px;
+	height: 20px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	text-align: center;
+	color: #707070;
+}
+
+#foto_s:hover {
+	color: #c70e3c;
+	font-style: italic;
+}
+
+#contact {
+	top: 109px;
+	left: 469px;
+	width: 69px;
+	height: 20px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	text-align: center;
+	color: #707070;
+}
+
+#contact:hover {
+	color: #c70e3c;
+	font-style: italic;
+}
+
+#sidelink {
+	box-sizing: border-box;
+	display: flex;
+	flex-direction: column;
+	align-items: flex-end;
+
+
+}
+
+#etendrinken {
+	top: 215px;
+	left: 533px;
+	width: 192px;
+	height: 25px;
+	overflow: hidden;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	text-align: center;
+	line-height: 14px;
+	color: #c70e3c;
+}
+
+
+#turnzwem {
+	top: 237px;
+	left: 541px;
+	width: 176px;
+	height: 32px;
+	overflow: hidden;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	text-align: center;
+	line-height: 14px;
+	color: #c70e3c;
+}
+
+
+#schooluren {
+	top: 259px;
+	left: 546px;
+	width: 166px;
+	height: 31px;
+	overflow: hidden;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	text-align: center;
+	line-height: 14px;
+	color: #c70e3c;
+}
+
+
+#zoekbar {
+	box-sizing: border-box;
+	display: flex;
+	align-items: flex-end;
+	width: 157px;
+	height: 23px;
+	border: 1px solid #c70e3c;
+	background: rgba(255, 255, 255, 255);
+
+
+}
+
+
+#doos {
+
+	width: 58px;
+	height: 58px;
+	display: flex;
+	align-items: flex-end;
+	align-content: flex-end;
+}
+
+
+#zoek_01 {
+	display: flex;
+	align-items: flex-end;
+	padding-left: 130px;
+}
+
+#second_container {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+
+#imagesquote {
+	display: flex;
+	flex-direction: column;
+}
+
+#feed {
+	display: flex;
+	flex-direction: column;
+}
+
+#foto_dansen {
+	top: 213px;
+	left: 22px;
+	width: 512px;
+	height: 338px;
+}
+
+#foto_dansen:hover {
+
+	filter: grayscale(90%);
+	transition: all 0.5s;
+	object-position: center;
+
+}
+
+
+#agenda {
+	top: 289px;
+	left: 551px;
+	width: 160px;
+	height: 36px;
+	overflow: hidden;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	text-decoration: underline;
+	text-align: left;
+	line-height: 18px;
+	color: #000000;
+}
+
+
+#agendaquote_1 {
+	top: 314px;
+	left: 551px;
+	width: 160px;
+	height: 361px;
+	overflow: hidden;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	text-align: left;
+	line-height: 10px;
+	color: #000000
+}
+
+
+#foto1 {
+	width: 160px;
+	height: 110.5px;
+}
+
+#foto1:hover {
+	filter: grayscale(90%);
+	transition: all 0.5s;
+}
+
+
+#foto2 {
+	width: 160px;
+	height: 107px;
+	max-width: 100%;
+	height: auto;
+}
+
+#foto2:hover {
+	filter: grayscale(90%);
+	transition: all 0.5s;
+	object-position: bottom;
+
+}
+
+
+
+#quote {
+	top: 570px;
+	left: 23px;
+	width: 336px;
+	height: 137px;
+	overflow: hidden;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	text-align: left;
+	color: #000000;
+	padding-top: 5px;
+}
+
+
+#veelgesteldevragen {
+	top: 194px;
+	left: 548px;
+	width: 160px;
+	height: 31.5px;
+	overflow: hidden;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	text-decoration: underline;
+	text-align: center;
+	line-height: 15px;
+	color: #000000;
+}
+
+/*
+
+CONTACT PAGINA
+
+
+
+*/
+
+#formulier {
+	font-family: Arial, Helvetica, sans-serif;
+	display: flex;
+	flex-direction: column;
+	align-items: flex-start;
+	padding: 10px;
+	color: #c70e3c;
+}
+
+#notes {
+	width: 450px;
+	height: 300px;
+
+}
+
+#colm {
+	padding: 5px;
+	max-width: 280px;
+	min-width: 270px;
+
+}
+
+#texti {
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+/*
+
+DIGITAL STYLEGUIDE
+
+*/
+
+body{
+	background-color: #252525;
+	padding: 15px;
+
+	
+}
+
+
+
+#titel_style {
+	height: 100px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 30px;
+	text-shadow: 2px 2px 6px #c70e3c;
+	color:  rgb(218, 218, 218);
+	
+	
+
+}
+
+#l_1 {
+	display: flex;
+	justify-content: space-between;
+	height: 400px;
+	font-family: Arial, Helvetica, sans-serif;
+
+}
+
+#color_1 {
+	width: 50px;
+	height: 50px;
+	background-color: #c70e3c;
+	padding: 5px;
+}
+
+#k1 {
+	color: #c70e3c
+	
+}
+
+#color_2 {
+	width: 50px;
+	height: 50px;
+	background-color: #707070;
+	padding: 5px;
+}
+
+#k2 {
+	color: #707070
+}
+
+#color_3 {
+	width: 50px;
+	height: 50px;
+	background-color: #000000;
+	padding: 5px;
+
+
+}
+
+#k3 {
+	color: #000000;
+}
+
+
+
+
+#colors {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	align-content: center;
+	padding: 10px;
+	height: 200px;
+	padding-top: 100px
+}
+
+
+#l_2 {
+	display: flex;
+	justify-content: space-between;
+	height: 400px;
+	font-family: Arial, Helvetica, sans-serif;
+	padding-top: 30px;
+
+}
+
+.sg {
+	padding: 5px;
+	display: flex;
+	justify-content: center;
+	height: 380px;
+	width: 240px;
+	background-color: rgb(218, 218, 218);
+	box-shadow: 4px 4px 10px #888888;
+	color: #c70e3c
+}
+
+.sg_2 {
+	padding: 5px;
+	display: flex;
+
+	background-color: rgb(218, 218, 218);
+	box-shadow: 4px 4px 10px #888888;
+	width: 500px;
+	color: #c70e3c
+}
+
+#form_style {
+	font-family: Arial, Helvetica, sans-serif;
+	display: flex;
+	flex-direction: column;
+	align-items: flex-end;
+	padding: 10px;
+	color: #c70e3c;
+}
+
+#font {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+
+#arial10 {
+	font-size: 10px;
+}
+
+#arial14 {
+	font-size: 14px;
+}
+
+#arial15 {
+	font-size: 15px;
+}
+
+#arial18 {
+	font-size: 18px;
+}
+
+#arial28 {
+	font-size: 28px;
+}
+
+#arial41 {
+	font-size: 41px;
+}
+
+#form_comp {
+	display: flex;
+	justify-content: space-between;
+	width: 100%;
+
+}
+
+.sg_2comp {
+	padding: 5px;
+	display: flex;
+	background-color: rgb(218, 218, 218);
+	box-shadow: 4px 4px 10px #888888;
+	justify-content: center;
+	flex-direction: column;
+	height: 900px;
+
+
+	color: #c70e3c
+}
+
+#imgComp {
+	max-width: 230px;
+	min-width: 200px;
+	padding: 5px;
+
+
+}
+
+.tit {
+	color: #c70e3c;
+	box-shadow: #707070;
+	
+
+}
